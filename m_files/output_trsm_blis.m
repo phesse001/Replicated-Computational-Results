@@ -1,0 +1,11 @@
+data_trsm_blis( 10, 1:3 ) = [    0    0    0.00 ];
+data_trsm_blis( 10, 1:3 ) = [ 2000 2000   49.61 ];
+data_trsm_blis(  9, 1:3 ) = [ 1800 1800   48.47 ];
+data_trsm_blis(  8, 1:3 ) = [ 1600 1600   51.09 ];
+data_trsm_blis(  7, 1:3 ) = [ 1400 1400   49.51 ];
+data_trsm_blis(  6, 1:3 ) = [ 1200 1200   50.78 ];
+data_trsm_blis(  5, 1:3 ) = [ 1000 1000   51.97 ];
+data_trsm_blis(  4, 1:3 ) = [  800  800   51.32 ];
+data_trsm_blis(  3, 1:3 ) = [  600  600   51.60 ];
+data_trsm_blis(  2, 1:3 ) = [  400  400   52.47 ];
+data_trsm_blis(  1, 1:3 ) = [  200  200   44.54 ];

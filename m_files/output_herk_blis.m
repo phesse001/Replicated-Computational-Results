@@ -1,0 +1,11 @@
+data_herk_blis( 10, 1:3 ) = [    0    0    0.00 ];
+data_herk_blis( 10, 1:3 ) = [ 2000 2000   51.50 ];
+data_herk_blis(  9, 1:3 ) = [ 1800 1800   51.33 ];
+data_herk_blis(  8, 1:3 ) = [ 1600 1600   49.60 ];
+data_herk_blis(  7, 1:3 ) = [ 1400 1400   49.52 ];
+data_herk_blis(  6, 1:3 ) = [ 1200 1200   50.35 ];
+data_herk_blis(  5, 1:3 ) = [ 1000 1000   48.44 ];
+data_herk_blis(  4, 1:3 ) = [  800  800   46.72 ];
+data_herk_blis(  3, 1:3 ) = [  600  600   47.06 ];
+data_herk_blis(  2, 1:3 ) = [  400  400   51.87 ];
+data_herk_blis(  1, 1:3 ) = [  200  200   44.03 ];

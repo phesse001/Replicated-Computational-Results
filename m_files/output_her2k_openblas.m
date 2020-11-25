@@ -1,0 +1,11 @@
+data_her2k_openblas( 10, 1:3 ) = [    0    0    0.00 ];
+data_her2k_openblas( 10, 1:3 ) = [ 2000 2000   88.71 ];
+data_her2k_openblas(  9, 1:3 ) = [ 1800 1800   99.81 ];
+data_her2k_openblas(  8, 1:3 ) = [ 1600 1600   99.84 ];
+data_her2k_openblas(  7, 1:3 ) = [ 1400 1400  103.35 ];
+data_her2k_openblas(  6, 1:3 ) = [ 1200 1200   98.29 ];
+data_her2k_openblas(  5, 1:3 ) = [ 1000 1000   96.90 ];
+data_her2k_openblas(  4, 1:3 ) = [  800  800   93.86 ];
+data_her2k_openblas(  3, 1:3 ) = [  600  600  100.76 ];
+data_her2k_openblas(  2, 1:3 ) = [  400  400   95.49 ];
+data_her2k_openblas(  1, 1:3 ) = [  200  200   88.15 ];

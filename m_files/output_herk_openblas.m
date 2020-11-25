@@ -1,0 +1,11 @@
+data_herk_openblas( 10, 1:3 ) = [    0    0    0.00 ];
+data_herk_openblas( 10, 1:3 ) = [ 2000 2000   76.51 ];
+data_herk_openblas(  9, 1:3 ) = [ 1800 1800   82.34 ];
+data_herk_openblas(  8, 1:3 ) = [ 1600 1600   92.24 ];
+data_herk_openblas(  7, 1:3 ) = [ 1400 1400   93.47 ];
+data_herk_openblas(  6, 1:3 ) = [ 1200 1200   84.39 ];
+data_herk_openblas(  5, 1:3 ) = [ 1000 1000   88.42 ];
+data_herk_openblas(  4, 1:3 ) = [  800  800   86.62 ];
+data_herk_openblas(  3, 1:3 ) = [  600  600   77.35 ];
+data_herk_openblas(  2, 1:3 ) = [  400  400   69.69 ];
+data_herk_openblas(  1, 1:3 ) = [  200  200   53.16 ];
