@@ -1,6 +1,7 @@
 # Replicated-Computational-Results
 
 # TODO
+- [ ] Build blis on windows with llvm and compile with msvc
 - [ ] Clean up all meta descriptionss and sofware detection plugins related to blis test suite
 - [ ] Find unique identifiers that show up in objdump or nm when linking to/not linking to blis (might be helpful to compare to normal command line linking output when linking to only one mkl lib but still works and compare)
 - [ ] Get test suite working on windows and linux, describe specific versions (soft,hard,arc,etc)
